@@ -1,0 +1,13 @@
+<div class="content-wrapper">
+    <section class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-lg-12">
+
+           
+
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
